@@ -60,7 +60,7 @@
   "dependencies": {
     "@babel/runtime": "^7.14.6",
     "@carbon/telemetry": "^0.0.0-alpha.6",
-    "react-resize-detector": "^6.7.3"
+    "react-resize-detector": "^6.7.4"
   },
   "peerDependencies": {
     "@carbon/icons-react": "^10.34.0",
