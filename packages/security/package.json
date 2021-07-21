@@ -44,7 +44,7 @@
     "upgrade-dependencies": "npm-check-updates -u --color --reject '/(carbon|^jest)/'"
   },
   "dependencies": {
-    "@babel/runtime": "^7.14.6",
+    "@babel/runtime": "^7.14.8",
     "@carbon/icons-react": "^10.35.0",
     "@carbon/import-once": "^10.5.0",
     "@carbon/layout": "^10.27.0",
