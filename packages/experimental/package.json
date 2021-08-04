@@ -45,14 +45,14 @@
   "peerDependencies": {
     "@carbon/icons-react": "^10.36.0",
     "@carbon/import-once": "^10.5.0",
-    "carbon-components": "^10.40.0",
-    "carbon-components-react": "^7.40.0",
+    "carbon-components": "^10.40.2",
+    "carbon-components-react": "^7.40.2",
     "carbon-icons": "^7.0.7",
     "react": "^16.14.0"
   },
   "dependencies": {
     "@babel/runtime": "^7.14.8",
-    "@carbon/ibm-cloud-cognitive": "^0.62.6",
+    "@carbon/ibm-cloud-cognitive": "^0.64.6",
     "@carbon/telemetry": "^0.0.0-alpha.6",
     "react-resize-detector": "^6.7.4"
   },

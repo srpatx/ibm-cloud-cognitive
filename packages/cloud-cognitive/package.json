@@ -47,7 +47,7 @@
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.14.8",
     "babel-preset-ibm-cloud-cognitive": "^0.3.2",
-    "chalk": "^4.1.1",
+    "chalk": "^4.1.2",
     "change-case": "^4.1.2",
     "copyfiles": "^2.4.1",
     "cross-env": "^7.0.3",
@@ -65,8 +65,8 @@
   "peerDependencies": {
     "@carbon/icons-react": "^10.36.0",
     "@carbon/import-once": "^10.5.0",
-    "carbon-components": "^10.40.0",
-    "carbon-components-react": "^7.40.0",
+    "carbon-components": "^10.40.2",
+    "carbon-components-react": "^7.40.2",
     "carbon-icons": "^7.0.7",
     "react": "^16.14.0"
   }
