@@ -52,7 +52,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.15.3",
-    "@carbon/ibm-cloud-cognitive": "^0.71.3",
+    "@carbon/ibm-cloud-cognitive": "^0.75.1",
     "@carbon/telemetry": "^0.0.0-alpha.6",
     "react-resize-detector": "^6.7.6"
   },
