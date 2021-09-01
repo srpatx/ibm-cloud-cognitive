@@ -2445,10 +2445,10 @@
     "@carbon/import-once" "^10.6.0"
     "@carbon/layout" "^10.29.0"
 
-"@carbon/ibm-cloud-cognitive@^0.75.1":
-  version "0.75.1"
-  resolved "https://registry.yarnpkg.com/@carbon/ibm-cloud-cognitive/-/ibm-cloud-cognitive-0.75.1.tgz#5f64dc9b9e90e22b26a6906f544eec74b918ca1f"
-  integrity sha512-eo7sZl3cuBMNrxCiAdZYyqUIMXakwtXCRRtqLrBz+zxRfs7JaVgjmetKN17DgfAbBa3+0zwOsFVakmqMSQGlCw==
+"@carbon/ibm-cloud-cognitive@^0.80.0":
+  version "0.80.0"
+  resolved "https://registry.yarnpkg.com/@carbon/ibm-cloud-cognitive/-/ibm-cloud-cognitive-0.80.0.tgz#70a81a454b93d9cfcd92b876c21c99f1f5fe60a4"
+  integrity sha512-z7DlRuzQ3BbFlfq9QzBwMuTVRWUcOiwW1x/1DUaCtkIrWP3tcXxJeCgi3NVBMQOaToVcXd2JbQig9B7FZO2xgg==
   dependencies:
     "@babel/runtime" "^7.15.3"
     "@carbon/telemetry" "^0.0.0-alpha.6"
@@ -2498,10 +2498,10 @@
   resolved "https://registry.yarnpkg.com/@carbon/motion/-/motion-10.19.0.tgz#b016437d8a88848f5412ce9714b65aa5364c62a5"
   integrity sha512-xAV6wFKvUGEO1vCDa2fZsPmF4slotJDB0bwvy7HgSGm9Ss++eBirADrZ6XH9CLw90dI60j/COvu2P2gu1XY0/A==
 
-"@carbon/storybook-addon-theme@^0.11.0":
-  version "0.11.0"
-  resolved "https://registry.yarnpkg.com/@carbon/storybook-addon-theme/-/storybook-addon-theme-0.11.0.tgz#0ece9a9a29e78ddbebcdf15272594cdd7ef6d336"
-  integrity sha512-olup6o9w+fC9Ojad47lolYBEizALe3MWY7WEG/j8T25Qq4htZY2KM1Ux3IOqu1VShpHJJgnAq83uQBIftVyKmg==
+"@carbon/storybook-addon-theme@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/@carbon/storybook-addon-theme/-/storybook-addon-theme-0.12.0.tgz#becafad12c957c99d3314c3844bf8f65b3beffef"
+  integrity sha512-3IjOaHcwQS8VrlCLlBCbv+UxAkkmJc8fpDiMhrEEM87zgue9pHdJNZgdTfZzN6kMzvS0hivj3YiMlomQ2SsKlQ==
   dependencies:
     "@storybook/addons" "6.3.7"
     "@storybook/api" "6.3.7"
@@ -2510,7 +2510,7 @@
     "@storybook/components" "6.3.7"
     "@storybook/core-events" "6.3.7"
     "@storybook/theming" "6.3.7"
-    core-js "^3.16.2"
+    core-js "^3.16.3"
     global "^4.4.0"
 
 "@carbon/telemetry@0.0.0-alpha.6", "@carbon/telemetry@^0.0.0-alpha.6":
@@ -8529,15 +8529,15 @@ core-js@^3.0.1, core-js@^3.0.4, core-js@^3.6.5, core-js@^3.8.2:
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.10.1.tgz#e683963978b6806dcc6c0a4a8bd4ab0bdaf3f21a"
   integrity sha512-pwCxEXnj27XG47mu7SXAwhLP3L5CrlvCB91ANUkIz40P27kUcvNfSdvyZJ9CLHiVoKSp+TTChMQMSKQEH/IQxA==
 
-core-js@^3.16.2:
-  version "3.16.2"
-  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.16.2.tgz#3f485822889c7fc48ef463e35be5cc2a4a01a1f4"
-  integrity sha512-P0KPukO6OjMpjBtHSceAZEWlDD1M2Cpzpg6dBbrjFqFhBHe/BwhxaP820xKOjRn/lZRQirrCusIpLS/n2sgXLQ==
-
 core-js@^3.16.3:
   version "3.16.3"
   resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.16.3.tgz#1f2d43c51a9ed014cc6c83440af14697ae4b75f2"
   integrity sha512-lM3GftxzHNtPNUJg0v4pC2RC6puwMd6VZA7vXUczi+SKmCWSf4JwO89VJGMqbzmB7jlK7B5hr3S64PqwFL49cA==
+
+core-js@^3.16.4:
+  version "3.16.4"
+  resolved "https://registry.yarnpkg.com/core-js/-/core-js-3.16.4.tgz#0fb1029a554fc2688c0963d7c900e188188a78e0"
+  integrity sha512-Tq4GVE6XCjE+hcyW6hPy0ofN3hwtLudz5ZRdrlCnsnD/xkm/PWQRudzYHiKgZKUcefV6Q57fhDHjZHJP5dpfSg==
 
 core-util-is@1.0.2, core-util-is@~1.0.0:
   version "1.0.2"
